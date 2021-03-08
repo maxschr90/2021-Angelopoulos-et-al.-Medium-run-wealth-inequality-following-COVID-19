@@ -9,10 +9,10 @@ There are 3 main subfolders in this folder:
 Before running the code, please not the following:
 
 	1. The data used is the Understanding Society, which is available from https://www.ukdataservice.ac.uk, conditional on any licencing requirements.
-	   In order to be in line with current rules and regulations, pease obtain your own copy of the data prior to replication.
+	   In order to be in line with current rules and regulations, please obtain your own copy of the data prior to replication.
            No special licence was required for this at the time of our analysis.
 
-	2. The code in the analysis section is written in STATA. Some parts of the code, might call for additional packages that might not be installed on your machine.
+	2. The code in the analysis section is written in STATA 14. Some parts of the code, might call for additional packages that might not be installed on your machine.
 	   In case of encountering an error, while running the code, please check if the error is caused by a missing package.
 	   To resolve the issue, install the required package.
 

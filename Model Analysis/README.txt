@@ -1,4 +1,7 @@
-This folder contains the MATLAB code to replicate the modeling analysis in the paper.
+
+This folder contains the files necessary for replicating the modeling analysis in:
+Angelopoulos, K. , Lazarakis, S., Mancy, R. and Schroeder, M. (2021) Briefing Note: Medium-run wealth inequality following COVID-19. 
+
 The function "Solve_Dynamic_Problem", solves the stationary model and the different dynamic paths. It calls the other auxiliary functions in that process.
 "Plots_Final" generates some of the figures used in the briefing note.
 
